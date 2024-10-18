@@ -1,4 +1,0 @@
-diffusers
-accelerate
-transformers
-opencv-python
